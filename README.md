@@ -1,2 +1,2 @@
 # Movie_list
-Simple movie list website made with js
+Simple movie list website made with js. Enyoj it.
